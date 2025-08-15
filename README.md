@@ -1,1 +1,1 @@
-# FYP-Graph-Neural-Networks
+# FYP Graph Neural Networks
